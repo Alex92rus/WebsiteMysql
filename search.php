@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-<h1>Search Here</h1>
+<h1>SEarch Here</h1>
 Search by name:
 <form method="post" action="search.php" enctype="multipart/form-data" >
 	<input type="text" name="name" id="name"/>
